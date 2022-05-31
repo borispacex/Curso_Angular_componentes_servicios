@@ -1,0 +1,5 @@
+1. CREAR COMPONENTES
+- Crear componente sin archivos de testing
+ng g c componentes/img --skip-tests
+- Crear componente sin estilos
+ng g c componentes/name_component -is
